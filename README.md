@@ -1,5 +1,8 @@
-### Hi there 👋
+## Olá! Eu sou o Alan David, Programador e Amante de Tecnologia!
 
+- :snowflake: Hoje trabalho com Front-end
+- :alien: Estudando Back-end e Android
+- :cookie: Constante Aprendizado!
 <div align="align">
 <a href="https://github.com/AlanDavid-007">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDavid-007&layout=compact&langs_count=7&theme=dracula"/>
