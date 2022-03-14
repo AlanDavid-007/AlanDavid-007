@@ -5,8 +5,9 @@
 - :cookie: Constante Aprendizado!
 <div align="align">
 <a href="https://github.com/AlanDavid-007">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDavid-007&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanDavid-007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <!--All themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDavid-007&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanDavid-007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Ferramentas e Tecnologias
