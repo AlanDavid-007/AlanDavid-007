@@ -1,8 +1,8 @@
 ![Header](./github-header.png)
 ## Olá! Eu sou o Alan David, Programador e Amante de Tecnologia!
 
-- :snowflake: Hoje trabalho com Front-end
-- :alien: Estudando Back-end e Android
+- :snowflake: Hoje trabalho com Front-end e Back-end
+- :alien: Estudando | HTML | CSS | SASS | JS | PHP e SQL |
 - :cookie: Constante Aprendizado!
 <div align="align">
 <a href="https://github.com/AlanDavid-007">
