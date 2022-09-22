@@ -2,7 +2,7 @@
 ## Olá! Eu sou o Alan David, Programador e Amante de Tecnologia!
 
 - :snowflake: Hoje trabalho com Front-end e Back-end
-- :alien: Estudando | HTML | CSS | SASS | JS | PHP e SQL |
+- :alien: Estudando | ReactJS e NextJS| NodeJS | TypeScript | SASS e CSS | PHP e SQL |
 - :cookie: Constante Aprendizado!
 <div align="align">
 <a href="https://github.com/AlanDavid-007">
