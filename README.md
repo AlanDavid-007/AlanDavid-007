@@ -1,6 +1,10 @@
 ![Header](./github-header.png)
 ## Olá! Eu sou o Alan David, Programador e Amante de Tecnologia!
 
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=AlanDavid-007&label=Profile%20views&color=0e75b6&style=flat"
+        alt="AlanDavid" /> </p>
+        
 - :snowflake: Hoje trabalho com Front-end e Back-end
 - :alien: Estudando | ReactJS e NextJS| NodeJS | TypeScript | SASS e CSS | PHP e SQL |
 - :cookie: Constante Aprendizado!
