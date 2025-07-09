@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS | Typescript | Python | Kafka | Docker | AWS | PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-plum-theta.vercel.app/](https://personal-portfolio-plum-theta.vercel.app/)
+- 👨‍💻 My Website Portfolio: [https://alan-david-portfolio.dev/](https://alan-david-portfolio.dev/)
 
 - 📫 How to reach me **alandaviddev@gmail.com**
 
