@@ -8,6 +8,10 @@
   Full Stack Developer | Automation & AI Engineer | Building web, e-commerce and AI-powered solutions
 </h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlanDavid-007&label=Profile%20views&color=00bfff&style=for-the-badge" alt="AlanDavid-007 profile views" />
+</p>
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlanDavid-007&label=Profile views&color=0e75b6&style=flat" alt="AlanDavid-007" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlanDavid-007" alt="AlanDavid-007" /></a> </p>
